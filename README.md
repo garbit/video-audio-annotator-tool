@@ -33,3 +33,5 @@ npm run build
 ```sh
 npm run lint
 ```
+
+A tool to audio annotate videos from external storage device using vue
